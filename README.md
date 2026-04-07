@@ -15,7 +15,7 @@ O jogador escolhe entre pedra, papel ou tesoura, enquanto o computador faz uma e
 - Escolhas iguais resultam em empate
 
 ## Acesse o jogo online:
-https://github.com/Kalillpascoa/pedra-papel-tesoura
+https://kalillpascoa.github.io/pedra-papel-tesoura/
 
 ## Tecnologias utilizadas:
 - HTML5
