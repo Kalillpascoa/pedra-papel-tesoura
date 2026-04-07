@@ -1,6 +1,6 @@
 # Pedra, Papel e Tesoura
 
-![Preview do jogo](img/preview.jpeg)
+![Preview do jogo](img/preview.JPG)
 
 Jogo desenvolvido utilizando **HTML, CSS e JavaScript**, como parte da Atividade Prática 1 - Desenvolvimento de Jogo Web da disciplina GAC116 - Programação Web - 2026/1.
 
