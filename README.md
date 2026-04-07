@@ -32,3 +32,5 @@ script.js → lógica
 ## Licença:
 Este projeto está sob a licença MIT.
 
+Desenvolvido por: KALILL JOSÉ VIANA DA PÁSCOA
+
